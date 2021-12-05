@@ -24,7 +24,9 @@ Classes.pkl – The classes pickle file contains the list of categories.
 Chatbot_model.h5 – This is the trained model that contains information about the model and has weights of the neurons.  
 Chatgui.py – This is the Python script in which we implemented GUI for our chatbot. Users can easily interact with the bot. 
 
+<p align="center">
 <img src=https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/12/Types-of-files-1.png>
+</p>
 
 #  5 steps to create a chatbot in Python
 1. Import and load the data file
@@ -76,12 +78,14 @@ First, we train the model using the command in the terminal:
 ```python
 python train_chatbot.py
 ```
+<p align="center">
 <img src=https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/12/chatbot-result.png>
+ </p> 
 
 If we don’t see any error during training, we have successfully created the model. Then to run the app, we run the second file:
 ```python
 python chatgui.py
 ```
-
+<p align="center">
 <img src=https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/12/chat-between-user-bot.png>
-
+</p>
