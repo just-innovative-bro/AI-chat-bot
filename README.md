@@ -78,7 +78,7 @@ After predicting the class, we will get a random response from the list of inten
 Now we will develop a graphical user interface. Let’s use Tkinter library which is shipped with tons of useful libraries for GUI. We will take the input message from the user and then use the helper functions we have created to get the response from the bot and display it on the GUI. Here is the full source code for the GUI.
 
 ## Run the chatbot
-To run the chatbot, we have two main files; train_chatbot.py and chatapp.py.
+To run the chatbot, we have two main files;   train_chatbot.py and chatapp.py.
 
 First, we train the model using the command in the terminal:
 ```python
