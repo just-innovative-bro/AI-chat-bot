@@ -76,8 +76,12 @@ First, we train the model using the command in the terminal:
 ```python
 python train_chatbot.py
 ```
+<img src=https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/12/chatbot-result.png>
+
 If we don’t see any error during training, we have successfully created the model. Then to run the app, we run the second file:
 ```python
 python chatgui.py
 ```
+
+<img src=https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/12/chat-between-user-bot.png>
 
