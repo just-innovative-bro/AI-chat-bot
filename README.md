@@ -95,3 +95,9 @@ python chatgui.py
 <p align="center">
 <img src=https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/12/chat-between-user-bot.png>
 </p>
+
+If error shows up then open your python idle and enter this code
+```python
+import nltk
+nltk.download('all')
+``
