@@ -12,8 +12,14 @@ They are based on seq 2 seq neural networks. It is the same idea as machine tran
 # Prerequisites
 ```python
 pip install tensorflow
+```
+```python
 pip install keras
+```
+```python
 pip install pickle
+```
+```python
 pip install nltk
 ```
 # Files
